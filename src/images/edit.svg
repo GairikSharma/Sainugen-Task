@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.5" height="24" viewBox="0 0 24.5 24">
+  <g id="_103539_edit_icon" data-name="103539_edit_icon" transform="translate(0.25 0.25)">
+    <g id="background" transform="translate(-0.25 -0.25)">
+      <rect id="Rectangle_1970" data-name="Rectangle 1970" width="23.999" height="24" fill="none"/>
+    </g>
+    <g id="edit" transform="translate(3.094 0.001)">
+      <path id="Path_1154" data-name="Path 1154" d="M8.641,26.641H4V22Z" transform="translate(-4 -5.985)"/>
+      <path id="Path_1156" data-name="Path 1156" d="M.163.544,21.495,0l-.163,6.4L0,6.944Z" transform="translate(21.156 4.91) rotate(135)"/>
+      <path id="Path_1155" data-name="Path 1155" d="M4,31.547V30H21.016v1.547Z" transform="translate(-4 -7.797)"/>
+    </g>
+  </g>
+</svg>

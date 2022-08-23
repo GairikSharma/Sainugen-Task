@@ -1,0 +1,25 @@
+* {
+  font-family: poppins;
+}
+
+.App {
+  text-align: center;
+}
+
+.main-container {
+  width: 100%;
+  height: 1148px;
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: row;
+  /* align-items: center; */
+  overflow-x: hidden;
+}
+
+.sideMenu {
+  width: 30%;
+}
+
+.dashboard {
+  width: calc(100% - 272px);
+}
